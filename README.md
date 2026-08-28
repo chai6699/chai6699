@@ -27,4 +27,4 @@ PostgreSQL · PyTorch
 - Privacy-Preserving Digital Twin Models for Smart Healthcare Applications, IJDTSC 2(1), 2026
 - Smart Irrigation Using Embedded AI, IJIRCCE 12(6), 2024
 
-📫 chaithanya6699@gmail.com · [LinkedIn](https://linkedin.com/in/chaithanya-virupaksha)
+📫 chaithanya6699@gmail.com · [LinkedIn]([https://linkedin.com/in/chaithanya-virupaksha](https://www.linkedin.com/in/chaithanya-virupaksha-6b1675295/))
